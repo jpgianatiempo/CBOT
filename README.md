@@ -7,8 +7,7 @@ Se compone de diversas carpetas:
 - **Data**
     - *Cbot.xlsx*: Data descargada para soja, maíz y trigo.
 
-- **Scripts/Update**
-    - *Update_Data*: Extracción de datos, transformación a usd/tn, cálculo de nuevas variables y actualización de base y gráficos.
+- **Update_Data**: Extracción de datos, transformación a usd/tn, cálculo de nuevas variables y actualización de base y gráficos.
 
 
 - **Grafs**
@@ -19,7 +18,7 @@ Se compone de diversas carpetas:
 
 ## Proceso para actualizar el proyecto
 Para correr el proyecto solamente se debería:
-1. Correr el script de *CBOT/Scripts/Update/Update_Data.py*
+1. Correr el script de *CBOT/Update_Data.py*
 
 ## Vizualiación de resultados
 Se puede: 
